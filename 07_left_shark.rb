@@ -5,6 +5,6 @@ require_relative "person"
 
 sharks = {
   left_shark: {
-    candidates: ["50cent", "Channing Tatum", "Bobby Wilson", "McJagger", "Ron Swanson"]
+    candidates: ["Bobby Wilson", "50cent", "Channing Tatum", "Ron Swanson", "McJagger"]
   }
 }
